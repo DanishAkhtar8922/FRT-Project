@@ -15,5 +15,11 @@ Project deployment link: https://danishakhtar8922.github.io/FRT-Project/
 
 ![frt5](https://github.com/DanishAkhtar8922/FRT-Project/assets/113835410/b13233e7-6e87-4462-aa71-6253b0ad3202)
 
+
 #Project GitHub Dashboard Screenshot: 
 ![frt dashboard](https://github.com/DanishAkhtar8922/FRT-Project/assets/113835410/03e3b1e9-ed73-472d-8f41-ce672f061ebd)
+
+#Project Demo Video Link:
+
+https://drive.google.com/file/d/1MzMq2bSfyzUcii_B1fUhEyrtyc-WVcdL/view?usp=sharing
+
